@@ -21,7 +21,7 @@ El conjunto de datos contiene información financiera de clientes.
 
 ## e. Conclusiones de Negocio (Generadas por IA)
 
---- CONCLUSIÓN GENERADA POR IA ---
+**CONCLUSIÓN** 
 
 Hemos finalizado el entrenamiento de un modelo de Machine Learning diseñado para predecir el riesgo crediticio, es decir, identificar si un cliente es propenso a caer en *default* o no. En general, el modelo es bastante robusto y **acierta en sus predicciones el 93% de las veces**. Es particularmente fuerte al identificar clientes que *no* representarán un riesgo: de los clientes que efectivamente no incumplieron, el modelo los identificó correctamente en un 99% de las ocasiones. Esto es excelente para agilizar aprobaciones de crédito de bajo riesgo con alta confianza.
 
