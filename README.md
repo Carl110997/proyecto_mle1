@@ -1,7 +1,7 @@
 # Riesgo Crediticio - Machine Learning Engineering (DSRP) 🚀
 
 ## a. Problema de ML
-[cite_start]El objetivo de este proyecto es resolver un problema de **Clasificación Supervisada**. Buscamos predecir si un cliente caerá en incumplimiento de pago (Default) o no (No Default) basándonos en su historial y características financieras.
+El objetivo de este proyecto es resolver un problema de **Clasificación Supervisada**. Buscamos predecir si un cliente caerá en incumplimiento de pago (Default) o no (No Default) basándonos en su historial y características financieras.
 
 ## b. Descripción del Dataset
 El conjunto de datos contiene información financiera de clientes.
@@ -16,11 +16,10 @@ El conjunto de datos contiene información financiera de clientes.
 * **Ventajas:** Robusto ante outliers y excelente para capturar relaciones no lineales en perfiles financieros.
 
 ## d. Resultados y Métricas
-* [cite_start]**Métrica elegida:** Accuracy 
+* **Métrica elegida:** Accuracy 
 * **Accuracy obtenido:** *93%*.
 
 ## e. Conclusiones de Negocio (Generadas por IA)
-*Llave cargada correctamente de forma segura.
 
 --- CONCLUSIÓN GENERADA POR IA ---
 
